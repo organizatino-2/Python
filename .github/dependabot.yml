@@ -1,5 +1,5 @@
 # Keep GitHub Actions up to date with Dependabot...
-# https://docs.github.com/en/code-security/dependabot/working-with-dependabot/keeping-your-actions-up-to-date-with-dependabot
+# https://docs.github.com/en/code-security/dependabot/working-with-dependabot/keeping-your-actions-up-to-date-with-dependabot a
 version: 2
 updates:
   - package-ecosystem: "github-actions"
